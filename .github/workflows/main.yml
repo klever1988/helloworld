@@ -10,7 +10,7 @@ name: Merge-upstream
 
 on:
   schedule:
-    - cron: '10 */4 * * *'
+    - cron: '10 */12 * * *'
   watch:
     types:
       - 'started'
